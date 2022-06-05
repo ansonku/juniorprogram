@@ -1,5 +1,9 @@
 # juniorprogram
 
+# 英文
+- 影集 Friends
+	- https://youtu.be/PMUe_8Ae9dQ
+
 # 生物
 
 # 理化
