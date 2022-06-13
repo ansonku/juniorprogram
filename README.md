@@ -15,6 +15,8 @@
 # 生物
 - 劉維生物Youtube影片
 	- https://www.youtube.com/watch?v=aM7c_pINXD0&list=PLyoUbj4-VuhatPPdnBk6Kn_nWmEb3KY3F
+- phyworld 生物筆記講義練習卷
+- 	- https://www.phyworld.idv.tw/BIO/
 
 # 理化
 - 科學家的家庭教師
