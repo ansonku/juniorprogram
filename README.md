@@ -19,6 +19,8 @@
  	- https://www.phyworld.idv.tw/BIO/
 - 高雄市教育局生物教學網
  	- https://affairs.kh.edu.tw/1268/upload/file_list/1
+- 康乃薾國民中小學簡子惠老師生物
+	- https://www.shareclass.org/profile/a39706b131da47c1a20b43044bac7e51/
 
 # 理化
 - 科學家的家庭教師
@@ -27,6 +29,8 @@
 	- http://jim.chjhs.tyc.edu.tw/sciencegroup/sciencebook.htm
 - 吳彥成國中精華複習手冊
  	- https://simg.studybank.com.tw/ckeditor/pdf/2019040960719326.pdf
+- 康乃薾國民中小學簡子惠老師理化
+	- https://www.shareclass.org/profile/a39706b131da47c1a20b43044bac7e51/
 - 台北酷課雲
 	- https://www.youtube.com/c/臺北酷課雲cooc/videos
 - 學習吧
