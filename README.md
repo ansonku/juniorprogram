@@ -23,8 +23,9 @@
 	- https://www.phyworld.idv.tw
 - Jim Science Book
 	- http://jim.chjhs.tyc.edu.tw/sciencegroup/sciencebook.htm
+- 吳彥成國中精華複習手冊
+ 	- https://simg.studybank.com.tw/ckeditor/pdf/2019040960719326.pdf
 - 台北酷課雲
 	- https://www.youtube.com/c/臺北酷課雲cooc/videos
-
 - 學習吧
 	- https://www.learnmode.net/knowledge/version?p=37#focus
