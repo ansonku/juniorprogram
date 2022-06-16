@@ -7,6 +7,8 @@
 # 英文
 - 影集 Friends
 	- https://youtu.be/PMUe_8Ae9dQ
+- 高中英文單字
+ 	- https://quizlet.com/lanyupublishing/folders/7000level-6/sets?fbclid=IwAR2wWFp9UiCWILfVPQo7IVs-PD_cbfjkdXQfkQ8wpiI3GvBVEflks9Bi6SU&fs=e&s=cl
 
 # 共用
 - 康軒雲
