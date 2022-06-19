@@ -13,6 +13,8 @@
 # 共用
 - 康軒雲
 	- https://945cloud.knsh.com.tw/Resource.asp?EJ=J&Course=4&Pse=111%E5%AD%B8%E5%B9%B4%E4%B8%8A%E5%AD%B8%E6%9C%9F&Pma=21&Pgr=1%E4%B8%8A&Pca=%E8%AA%B2%E7%A8%8B%E7%B8%BD%E8%A1%A8&Pks=
+- 北一女開放課程
+	- https://moodle.fg.tp.edu.tw/~tfgcoocs/blog/
 
 # 生物
 - 劉維生物Youtube影片
