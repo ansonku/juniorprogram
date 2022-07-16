@@ -39,6 +39,8 @@
 	- https://www.phyworld.idv.tw
 - Jim Science Book
 	- http://jim.chjhs.tyc.edu.tw/sciencegroup/sciencebook.htm
+- Daphne Yeh 理化影片
+	- https://www.youtube.com/c/DaphneYeh/videos
 - 吳彥成國中精華複習手冊
  	- https://simg.studybank.com.tw/ckeditor/pdf/2019040960719326.pdf
 - 康乃薾國民中小學簡子惠老師理化
