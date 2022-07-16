@@ -51,3 +51,7 @@
 	- https://www.learnmode.net/knowledge/version?p=37#focus
 - 數學很簡單(理化)
 	- https://www.youtube.com/c/何肇忠/playlists
+
+# 歷史
+- 如果歷史是一群喵
+ 	- https://www.youtube.com/watch?v=6ySLSyB_oWQ&list=PL4qpyfTZ83ciYWTjO_W2Og0JS-Q3Ni-W5
