@@ -5,6 +5,8 @@
 	- https://www.smartgirlstudy.com/free-downloads	
 
 # 英文
+- ENGLISH IN USE 系列線上學習
+	- https://www.essentialenglish.review
 - 影集 Friends
 	- https://youtu.be/PMUe_8Ae9dQ
 - 高中英文單字
