@@ -18,6 +18,10 @@
 - 北一女開放課程
 	- https://moodle.fg.tp.edu.tw/~tfgcoocs/blog/
 
+# 國文
+- Yes 老師成語
+	- https://www.yesteachershop.com/blogs/從成語學國語/從成語學國語-第2集
+
 # 數學
 - 數學很簡單(數學)
 	- https://www.youtube.com/c/何肇忠/playlists
