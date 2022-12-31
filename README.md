@@ -43,6 +43,8 @@
 # 理化
 - 科學家的家庭教師
 	- https://www.phyworld.idv.tw
+- 阿賢老師的理化教學網站
+	- https://sites.google.com/a/ntjh.ntct.edu.tw/phys-chem/001ke-wen-nei-rong-yao-dian
 - Jim Science Book
 	- http://jim.chjhs.tyc.edu.tw/sciencegroup/sciencebook.htm
 - Daphne Yeh 理化影片
