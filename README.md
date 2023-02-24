@@ -25,6 +25,10 @@
 # 數學
 - 數學很簡單(數學)
 	- https://www.youtube.com/c/何肇忠/playlists
+- 國中數學快速複習觀念
+	- https://simg.studybank.com.tw/ckeditor/pdf/2019040960576443.pdf
+- 圓與切線單元
+	- https://math.ymhs.tyc.edu.tw/masterchen/chenyan/TeaPlan107/TeaPnCon/107SB5/Ch2.1點、直線、圓之間的位置關係(上課).pdf?fbclid=IwAR2-ohClMVwvt01rM8Xsz1Zd0exiTIShzsW5PFOR5aRJ0XynV_d4ghcmasE
 
 # 生物
 - 劉維生物Youtube影片
