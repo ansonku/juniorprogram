@@ -74,6 +74,9 @@
  	- https://www.youtube.com/watch?v=6ySLSyB_oWQ&list=PL4qpyfTZ83ciYWTjO_W2Og0JS-Q3Ni-W5
 - 國中歷史筆記重點整理
 	- http://dragonfather.com/108課綱：國中歷史筆記/
+# 地理
+- 國中地理整理
+	- http://dragonfather.com/國中地理筆記/
 # 其他
 - macmillan learning
 	- https://www.macmillanlearning.com/studentresources/college/collegebridgepage/life11e.html
