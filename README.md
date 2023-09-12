@@ -79,6 +79,10 @@
 	- 國三歷史筆記 http://dragonfather.com/wp-content/uploads/2019/12/國三歷史筆記.pdf
 - 海山高中 林晉緯 老師 　教學資源網
 	- http://163.20.146.11/hshs/hd54820/2018/08/23/［七年級］臺灣史講義（一、二冊）/
+- 不消失的歷史課 (一至六冊)
+  	- https://www.youtube.com/@108history/videos
+- 地圖裡的故事
+  	- https://www.youtube.com/@DiTuLiDeGuShi
 # 地理
 - 國中地理整理
 	- http://dragonfather.com/國中地理筆記/
