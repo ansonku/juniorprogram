@@ -72,6 +72,8 @@
 # 高中物理
 - 台中一中
 	- https://webapps.tcfsh.tc.edu.tw/whc1118/
+- 吳旭明x蔡佳玲-物理學習網
+  	- https://www.youtube.com/channel/UCPURjmeF3aKarL_t-Ofx6iA
 
 # 歷史
 - 如果歷史是一群喵
