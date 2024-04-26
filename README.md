@@ -13,6 +13,11 @@
  	- https://quizlet.com/lanyupublishing/folders/7000level-6/sets?fbclid=IwAR2wWFp9UiCWILfVPQo7IVs-PD_cbfjkdXQfkQ8wpiI3GvBVEflks9Bi6SU&fs=e&s=cl
 - 國中單字 2000
   	- https://www.ntpehs.ttct.edu.tw/wp-content/uploads/sites/71/2022/03/%E5%9C%8B%E4%B8%AD2000%E5%96%AE%E5%AD%97%E9%A1%8C%E5%BA%AB%E4%B8%BB%E9%A1%8C%E7%89%88.pdf
+
+# 進階英文
+- Science for kid
+  	- https://www.sciencejournalforkids.org
+
 # 共用
 - 康軒雲
 	- https://945cloud.knsh.com.tw/Resource.asp?EJ=J&Course=4&Pse=111%E5%AD%B8%E5%B9%B4%E4%B8%8A%E5%AD%B8%E6%9C%9F&Pma=21&Pgr=1%E4%B8%8A&Pca=%E8%AA%B2%E7%A8%8B%E7%B8%BD%E8%A1%A8&Pks=
