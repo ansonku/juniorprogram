@@ -13,6 +13,8 @@
  	- https://quizlet.com/lanyupublishing/folders/7000level-6/sets?fbclid=IwAR2wWFp9UiCWILfVPQo7IVs-PD_cbfjkdXQfkQ8wpiI3GvBVEflks9Bi6SU&fs=e&s=cl
 - 國中單字 2000
   	- https://www.ntpehs.ttct.edu.tw/wp-content/uploads/sites/71/2022/03/%E5%9C%8B%E4%B8%AD2000%E5%96%AE%E5%AD%97%E9%A1%8C%E5%BA%AB%E4%B8%BB%E9%A1%8C%E7%89%88.pdf
+- CoolEnglish
+  	- https://www.coolenglish.edu.tw/
 
 # 進階英文
 - Science for kid
