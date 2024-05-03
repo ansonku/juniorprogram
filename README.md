@@ -60,6 +60,8 @@
 	- https://www.youtube.com/watch?v=yDipyiwLVEc&list=PLYi_KoAVF9fcx23VqC7nxzyGJiJhAI-Bd
 - 數學很簡單(生物)
 	- https://www.youtube.com/c/何肇忠/playlists
+ - 物理民師
+   	- https://www.youtube.com/@user-xy5fx9bn2c/videos
 
 # 理化
 - 科學家的家庭教師
