@@ -19,6 +19,8 @@
 # 進階英文
 - Science for kid
   	- https://www.sciencejournalforkids.org
+- TOEIC
+  	- https://shop.wordup.com.tw/product/807
 
 # 共用
 - 康軒雲
