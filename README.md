@@ -44,6 +44,8 @@
 	- https://math.ymhs.tyc.edu.tw/masterchen/chenyan/TeaPlan107/TeaPnCon/107SB5/Ch3.2外心、內心與重心(上課).pdf
 	- https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjasJiDxa_9AhUQ_WEKHR1eDh8QFnoECA8QAQ&url=https%3A%2F%2Fbonniewang.weebly.com%2Fuploads%2F5%2F9%2F3%2F6%2F59367059%2F%25E4%25B8%2589%25E8%25A7%2592%25E5%25BD%25A2%25E4%25B8%2589%25E5%25BF%2583%25E9%2587%258D%25E9%25BB%259E%25E6%2595%25B4%25E7%2590%2586.doc&usg=AOvVaw1fYOpHM4lGKBUKq9tfhuT_
 	- 證明. https://www.liveism.com/live-concept.php?q=三角形的外心
+ - 斜率
+   	- https://hackmd.io/@cyberlancer/SlopeBasic
 
 # 進階數學
 - 微積分
