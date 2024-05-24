@@ -123,6 +123,7 @@
   	- 傅立葉轉換推導 https://ocw.chu.edu.tw/pluginfile.php/875/mod_resource/content/30/Summary_273.pdf
 - 矩陣
   	- 矩陣視覺化
+	- 類型經網路+矩陣 https://www.youtube.com/watch?v=IxsGTWZU2Ks
 
 # 其他
 - macmillan learning
