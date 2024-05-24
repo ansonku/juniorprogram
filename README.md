@@ -120,6 +120,7 @@
   	- https://www.youtube.com/watch?v=HjuQqeSPILY
   	- https://hackmd.io/@sysprog/fourier-transform
   	- 尤拉公式 https://blog.csdn.net/weixin_42475060/article/details/121268398
+  	- 傅立葉轉換推導 https://ocw.chu.edu.tw/pluginfile.php/875/mod_resource/content/30/Summary_273.pdf
 
 # 其他
 - macmillan learning
