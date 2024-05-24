@@ -113,6 +113,13 @@
 # 地理
 - 國中地理整理
 	- http://dragonfather.com/國中地理筆記/
+
+
+# 進階
+- 傅立葉轉換
+  	- https://www.youtube.com/watch?v=HjuQqeSPILY
+  	- https://hackmd.io/@sysprog/fourier-transform
+
 # 其他
 - macmillan learning
 	- https://www.macmillanlearning.com/studentresources/college/collegebridgepage/life11e.html
