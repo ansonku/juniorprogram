@@ -25,6 +25,8 @@
   	- https://elearning.sanmin.com.tw/Learn/NewsDelivery/English
 - 雙語資源網
  	- https://bilingual.ndc.gov.tw/
+- 英文閱讀書單
+ 	- https://blog.wordup.com.tw/blog/2022/06/21/how-to-read-a-novel-2/
 
 # 共用
 - 康軒雲
