@@ -90,6 +90,8 @@
 	- https://www.learnmode.net/knowledge/version?p=37#focus
 - 數學很簡單(理化)
 	- https://www.youtube.com/c/何肇忠/playlists
+- 廖柏坤資優自然(Jason Liao)
+ 	- https://www.youtube.com/@JasonLiao-skkljoyce/videos
 
 # 高中物理
 - 台中一中
