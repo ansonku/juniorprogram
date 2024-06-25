@@ -15,6 +15,8 @@
   	- https://www.ntpehs.ttct.edu.tw/wp-content/uploads/sites/71/2022/03/%E5%9C%8B%E4%B8%AD2000%E5%96%AE%E5%AD%97%E9%A1%8C%E5%BA%AB%E4%B8%BB%E9%A1%8C%E7%89%88.pdf
 - CoolEnglish
   	- https://www.coolenglish.edu.tw/
+- Science for Kid
+  	- https://sciencejournalforkids.org
 
 # 進階英文
 - Science for kid
