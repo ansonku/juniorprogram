@@ -96,6 +96,8 @@
 	- https://www.youtube.com/c/何肇忠/playlists
 - 廖柏坤資優自然(Jason Liao)
  	- https://www.youtube.com/@JasonLiao-skkljoyce/videos
+- 化學元素表
+  	- https://ptable.com/?lang=zh-hant#%E6%80%A7%E8%B3%AA
 
 # 高中物理
 - 台中一中
