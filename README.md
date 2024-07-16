@@ -17,6 +17,8 @@
   	- https://www.coolenglish.edu.tw/
 - Science for Kid
   	- https://sciencejournalforkids.org
+- youtube EchoEnglishChannel
+  	- https://www.youtube.com/@EchoEnglishChannel
 
 # 進階英文
 - Science for kid
