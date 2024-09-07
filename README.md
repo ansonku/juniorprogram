@@ -20,6 +20,8 @@
   	- https://sciencejournalforkids.org
 - youtube EchoEnglishChannel
   	- https://www.youtube.com/@EchoEnglishChannel
+- readtheoryapp
+  	- https://readtheoryapp.com/
 
 # 進階英文
 - Science for kid
