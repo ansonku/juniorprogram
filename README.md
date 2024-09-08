@@ -22,6 +22,8 @@
   	- https://www.youtube.com/@EchoEnglishChannel
 - readtheoryapp
   	- https://readtheoryapp.com/
+- BreakingNews
+  	- https://breakingnewsenglish.com/index.html
 
 # 進階英文
 - Science for kid
