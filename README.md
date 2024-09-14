@@ -46,6 +46,9 @@
 # 國文
 - Yes 老師成語
 	- https://www.yesteachershop.com/blogs/從成語學國語/從成語學國語-第2集
+- 論語
+  	- http://www.holdmean.org.tw/index.php/home/home-samples-2/honor-2/104-announcement-13.html?limit=10
+  	- https://free-lun-yu.blogspot.com/
 
 # 數學
 - 數學很簡單(數學)
