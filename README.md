@@ -24,6 +24,8 @@
   	- https://readtheoryapp.com/
 - BreakingNews
   	- https://breakingnewsenglish.com/index.html
+- 國高中單字查詢
+  	- https://www.5215.com.tw/
 
 # 進階英文
 - Science for kid
