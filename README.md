@@ -51,6 +51,7 @@
 - 論語
   	- http://www.holdmean.org.tw/index.php/home/home-samples-2/honor-2/104-announcement-13.html?limit=10
   	- https://free-lun-yu.blogspot.com/
+  	- 學而篇影片  https://www.youtube.com/watch?v=-CT3RUNsV3k
 
 # 數學
 - 數學很簡單(數學)
