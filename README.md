@@ -115,6 +115,8 @@
  	- https://www.youtube.com/@JasonLiao-skkljoyce/videos
 - 化學元素表
   	- https://ptable.com/?lang=zh-hant#%E6%80%A7%E8%B3%AA
+- Fox 國中理化、高一化學分享
+  	- https://www.youtube.com/playlist?list=PL-qTQCHcUfLKIpxQ4VfiElPkUsbJSYcVs
 
 # 高中物理
 - 台中一中
