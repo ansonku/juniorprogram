@@ -1,5 +1,8 @@
 # juniorprogram
 
+# 各校段考考題
+- http://www.mathland.idv.tw/mathtest/exam3.htm
+
 # 讀書計劃表
 - Smart Girl
 	- https://www.smartgirlstudy.com/free-downloads	
