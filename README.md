@@ -37,6 +37,8 @@
   	- https://www.5215.com.tw/
 - Dream English 俱樂部 weekly news
   	- https://www.facebook.com/nanidreamenglish
+- Listen in English
+  	- https://listeninenglish.com/
 
 # 進階英文
 - Science for kid
