@@ -41,6 +41,8 @@
   	- https://listeninenglish.com/
 - Nytimes Daily Listen
   	- https://www.nytimes.com/2024/10/25/podcasts/the-daily/pennsylvania-election.html?rref=vanity
+- study.com
+  	- https://study.com/academy/subj/english.html
 
 # 進階英文
 - Science for kid
