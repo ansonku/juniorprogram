@@ -156,6 +156,8 @@
   	- https://www.youtube.com/@DiTuLiDeGuShi
 - 108 課綱歷史整理講義
   	- https://dragonfather.com/108%E8%AA%B2%E7%B6%B1%EF%BC%9A%E5%9C%8B%E4%B8%AD%E6%AD%B7%E5%8F%B2%E7%AD%86%E8%A8%98/
+- 台灣人的歷史(補充)
+  	- https://taiwanus.net/history/3/35.htm
 # 地理
 - 國中地理整理
 	- http://dragonfather.com/國中地理筆記/
