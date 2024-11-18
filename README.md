@@ -12,6 +12,8 @@
   	- https://quizlet.com/user/lisachc0612/sets
 - 文言文精選
   	- https://minchia2011.pixnet.net/blog/category/662366
+- 中國哲學書電子化計劃
+  	- https://ctext.org/post-han/zh
 
 # 英文
 - ENGLISH IN USE 系列線上學習
