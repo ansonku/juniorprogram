@@ -14,6 +14,11 @@
   	- https://minchia2011.pixnet.net/blog/category/662366
 - 中國哲學書電子化計劃
   	- https://ctext.org/post-han/zh
+- 漢川草廬
+  	- 昭明文選
+  	- http://www.sidneyluo.net/a/a02/a02.htm
+- 古詩文網
+  	- https://www.gushiwen.cn/guwen/
 
 # 英文
 - ENGLISH IN USE 系列線上學習
