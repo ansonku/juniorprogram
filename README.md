@@ -21,6 +21,8 @@
   	- https://www.gushiwen.cn/guwen/
 
 # 英文
+- tubequizard (Youtube 英文影片，填充，推推)
+  	- http://www.tubequizard.com/quiz.php?id=93
 - ENGLISH IN USE 系列線上學習
 	- https://www.essentialenglish.review
 - 影集 Friends
