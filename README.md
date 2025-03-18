@@ -200,3 +200,7 @@
   	- https://zh.singlelogin.re/s/twilight
 - 安娜的檔案
   	- https://tw.annas-archive.org/
+
+# 競賽試題
+- 澳洲 AMC
+  	- http://www.chiuchang.org.tw/modules/mydownloads/viewcat.php?cid=22
