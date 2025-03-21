@@ -165,6 +165,8 @@
   	- https://www.youtube.com/@DiTuLiDeGuShi
 - 108 課綱歷史整理講義
   	- https://dragonfather.com/108%E8%AA%B2%E7%B6%B1%EF%BC%9A%E5%9C%8B%E4%B8%AD%E6%AD%B7%E5%8F%B2%E7%AD%86%E8%A8%98/
+  	- https://dragonfather.com/
+  	- https://dragonfather.com/teach/%e7%b0%a1%e5%8c%96%e7%89%88%e5%9c%8b%e4%b8%ad%e6%ad%b7%e5%8f%b2%e8%a1%a8%e6%a0%bc/
 - 台灣人的歷史(補充)
   	- https://taiwanus.net/history/3/35.htm
 - 台灣史進階
