@@ -142,6 +142,10 @@
 - Fox 國中理化、高一化學分享
   	- https://www.youtube.com/playlist?list=PL-qTQCHcUfLKIpxQ4VfiElPkUsbJSYcVs
 
+# 地科總複習
+- 凱莉老師
+        - https://sites.google.com/gm.kl.edu.tw/aa3249-earth/handout
+
 # 高中物理
 - 台中一中
 	- https://webapps.tcfsh.tc.edu.tw/whc1118/
