@@ -113,8 +113,11 @@
 	- https://www.youtube.com/watch?v=yDipyiwLVEc&list=PLYi_KoAVF9fcx23VqC7nxzyGJiJhAI-Bd
 - 數學很簡單(生物)
 	- https://www.youtube.com/c/何肇忠/playlists
- - 物理民師
+- 物理民師
    	- https://www.youtube.com/@user-xy5fx9bn2c/videos
+- 生物總複習
+  	- 七上 https://sites.google.com/gm.kl.edu.tw/aa3249-bio/7-1?authuser=0
+  	- 七下 https://sites.google.com/gm.kl.edu.tw/aa3249-bio/7-2?authuser=0
 
 # 理化
 - 科學家的家庭教師
