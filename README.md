@@ -148,6 +148,8 @@
 # 地科總複習
 - 凱莉老師
         - https://sites.google.com/gm.kl.edu.tw/aa3249-earth/handout
+- 凱莉老師-地科影片
+  	- https://sites.google.com/gm.kl.edu.tw/aa3249-earth/film?authuser=0
 
 # 高中物理
 - 台中一中
