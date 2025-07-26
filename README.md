@@ -180,6 +180,10 @@
   	- https://taiwanus.net/history/3/35.htm
 - 台灣史進階
   	- https://learn.hshs.tyc.edu.tw/ischool/publish_page/274/?cid=22054
+- 五分鐘看懂過去
+  	- https://www.youtube.com/@5%E5%88%86%E9%92%9F%E7%9C%8B%E6%87%82%E8%BF%87%E5%8E%BB/videos
+- 中國古代史合集
+  	- https://www.youtube.com/watch?v=C9Qie0RFSLQ&t=194s
 # 地理
 - 國中地理整理
 	- http://dragonfather.com/國中地理筆記/
